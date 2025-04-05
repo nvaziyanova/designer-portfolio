@@ -12,4 +12,4 @@
     2.2 [Блог](./travel-turkey/blog.pdf)
 
     2.3 [Адаптив для IPhone SE](./travel-turkey/main_adaptive_iphone_se.pdf)
-3. Редизайн лендинга завода силовых машин "Пионер"
+3. [Редизайн лендинга завода силовых машин "Пионер"](./factory/main.pdf)
